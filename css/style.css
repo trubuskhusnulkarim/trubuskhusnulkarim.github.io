@@ -50,5 +50,8 @@ h1 {
     height: 200px;
     background-image: url("../img/back.jpg");
     background-size: cover;
-    mask-image: url("../img/memask.png");
+}
+.mask1{
+    mask-image: url('../img/memask.png');
+    mask-size: cover;
 }
