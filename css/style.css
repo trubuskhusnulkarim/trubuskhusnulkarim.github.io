@@ -45,3 +45,10 @@ h1 {
     place-self: center;
     background-clip: text;
 }
+.kotak4 {
+    width: 200px;
+    height: 200px;
+    background-image: url("../img/back.jpg");
+    background-size: cover;
+    mask-image: url("../img/memask.png");
+}
