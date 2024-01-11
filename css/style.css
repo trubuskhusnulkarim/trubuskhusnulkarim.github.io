@@ -40,7 +40,7 @@
 }
 h1 {
     color: transparent;
-    background-image: url('../me.jpg');
+    background-image: url('../img/me.jpg');
     background-size: cover;
     place-self: center;
     background-clip: text;
